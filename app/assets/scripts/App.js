@@ -1,6 +1,7 @@
 import '../styles/styles.css'
 /*import Person from './modules/Person'
 import Animal from './modules/Animal';*/
+import 'lazysizes'
 import MobileMenu from './modules/MobileMenu'
 import RevealOnScroll from './modules/RevealOnScroll'
 import StickyHeader from './modules/StickyHeader'
